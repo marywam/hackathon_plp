@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>TravelBuddy</h1>
+        <h1>TravelBuddie</h1>
         <p>Find your perfect travel companion</p>
     </header>
     <section id="form-section">
